@@ -1,0 +1,6 @@
+{
+	"appId": "id.warsono.vuecapacitor",
+	"appName": "vue-capacitor",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
